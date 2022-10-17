@@ -1,0 +1,45 @@
+.a{
+    position: relative;
+    height: 1200px;
+    background-color: whitesmoke;
+}
+/* .b{
+    position: absolute;
+    left: 50%; */
+
+
+/* } */
+img{
+    width: 130px;
+    height: 161px;
+    margin-top: 50px;
+    margin-left: 30px;
+
+    
+}
+.c{
+    height: 1200px;
+    background-color: whitesmoke;
+}
+h3{
+    color: black;
+    align-content: center;
+
+}
+p{
+    color: black  ;
+}
+h2{
+    color: white;
+}
+.z{
+    box-shadow: 10px 10px 8px #888888;}
+    .navbar{
+        background-color: black;
+    }
+    h5{
+        color: orange;
+    }
+.k{
+    background-color: black;
+}
